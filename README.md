@@ -1,7 +1,7 @@
 # Achyuthuni Sri Harsha 
 Phone no: +919019413416  
 Website: [www.harshaash.com](www.harshaash.com)  
-Mail: achyuthuni.sri.harsha@gmail.com  
+Mail: sri.harsha.uni@gmail.com  
  
 ## Work Experience  
 **Tesco**: Senior Business Analyst <span style="text-align: right">April 2020 - Present</span>  
