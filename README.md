@@ -5,9 +5,13 @@ Mail: sri.harsha.uni@gmail.com
  
 ## Work Experience  
 **Deloitte**: Senior Consultant <span style="text-align: right">January 2021 - Current</span>  
+Client: PepsiCo
+* Built and deployed granular volume forecastingmodels across the North American market using Python, PySpark, and Databricks, achieving 90% accuracy and improving planning across customer, location, and package dimensions  
+* Designed scalable MLOps pipelines in Azure, implementing CI/CD and Continuous Training processes, enhancing reliability, monitoring, and deployment efficiency  
+
 Client: Dr Reddy Labs  
 * Deployed a tool that leverages warning letters given to competitor’s plants by US FDA. Used Google News API, web scrapping and Generative AI (PALM 2) to find, read and extract relevant information from news articles. Deployed end-to-end process using on Google Cloud Platform  
-* Built a tool that reads documents from sam.gov website and extracts relevant information for US government contracts
+* Developed a GenAI-based tool to automate the extraction of key data from US Government pre-solicitation and solicitation bids, accelerating bid creation for sales and supply chain teams
 
 Client: Rolls-Royce  
 * Built a “Human with AI” machine learning tool that assists subject matter experts (SME) in identifying various performance and failure issues in aircraft engines saving 1200 man-hours  
@@ -26,7 +30,7 @@ Client: Walmart International
 * Optimised EOQ and reorder point using an integer programming model after correcting for fillrate and lead time discrepancies leading to revenue savings of 1.2 million dollars per month
 
 Other clients  
-* Performed clean sheet cost analysis to estimate the actual cost of private brand food products
+* Built an NLP-based PoC to estimate ingredient composition and cost in food items using USDA nutrient data, aiding sourcing managers and food scientists in procurement decisions
 
 Additional responsibilities:  
 * Mentored three batches of young analysts (5 in one batch) on demand forecasting and customer churn prediction  
@@ -49,7 +53,7 @@ Additional responsibilities:
 * Treasurer of SAE India club
 
 # Publications
-* *Preventive maintenance of aircraft engines* presented at the *9th International Conference on Business Analytics and Intelligence* where it recievec the *Best Paper award*  
+* *Preventive maintenance of aircraft engines* presented at the *9th International Conference on Business Analytics and Intelligence* where it recievec the *Best Paper award*  
 * *Scarecrow - Intelligent Annotation platform for Engine Health Management* presented at AI ML Systems conference and published in ACM  
 * *Parametric Study of Cantilever Plates Exposed to Supersonic and Hypersonic Flows* published at *IOP Conference Series: Materials Science and Engineering*  
 * *Personal analytics: Time management using Google Maps*: presented in ICSADADS  
